@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import WeatherReactApp from './WeatherReactApp';
 
 import './App.css';
@@ -6,7 +6,6 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      
         <p>
           <WeatherReactApp/>
         </p>
